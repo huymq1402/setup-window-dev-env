@@ -1,4 +1,4 @@
-# 1. setup-window-ssh (.bashrc, .bash_profile, .ssh/config)
+# 1. Setup window SSH (.bashrc, .bash_profile, .ssh/config)
 
 ## .bashrc
 ```
